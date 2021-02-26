@@ -1,10 +1,10 @@
-# ![](https://kariselovuo.pro/ksprov1/wp-content/uploads/2018/02/css-logo.png) Модуль 8.  Базовый JS.
+# ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png) Модуль 8.  Базовый JS.
 ### Выполнение практических заданий 8 модуля.
 
 Задание 1. Проверка четности числа    
 
 Задание 2. Проверка типа данных переменной  
-  
+
 Задание 3. Отображение строки в зеркальном отражении    
 
 Задание 4. Генерация случайного числа в диапазоне 0 - 100
